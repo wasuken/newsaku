@@ -1,0 +1,6 @@
+.env
+logs/
+rss/
+.ac-php-conf.json
+rsses.json
+vendor/
